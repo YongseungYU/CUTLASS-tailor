@@ -1,2 +1,2 @@
-# Appendix: CUTLASS-tailor
-This page elaborates the background section and the motivation section of our paper.
+# Analytical Model of CUTLASS GEMM
+This page discusses about CUTLASS implementation details, and construcs an analytical model of CUTLASS GEMM.
